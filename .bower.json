@@ -1,0 +1,14 @@
+{
+  "name": "drunken-parrot-flat-ui",
+  "homepage": "https://github.com/cmjatai/drunken-parrot-flat-ui",
+  "_release": "7a7988b292",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "7a7988b292a6348d959a608447413d9d142e5769"
+  },
+  "_source": "https://github.com/cmjatai/drunken-parrot-flat-ui.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/cmjatai/drunken-parrot-flat-ui.git",
+  "_direct": true
+}
