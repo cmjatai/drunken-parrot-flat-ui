@@ -1364,7 +1364,7 @@ select[multiple].input-lg {
 .input-icon .form-control {
   text-indent: 30px;
 }
-@media screen and (min-width: 320px) and (max-width: 768px) {
+@media screen and (min-width: 320px) and (max-width: 767px) {
   .input-required span {
     width: 14px;
     height: 35px;
